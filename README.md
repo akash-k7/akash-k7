@@ -11,10 +11,9 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8b5cf6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=akash-k7&style=for-the-badge&color=8b5cf6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-kollamchery/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://imakashk.framer.website/)
 
 </div>
 
@@ -24,7 +23,7 @@
 
 ```typescript
 const developer = {
-  name: "Your Name",
+  name: "Akash",
   location: "Kerala, India 🌴",
   education: "B.Tech in Computer Science & Engineering",
   currentFocus: ["Shopify Apps", "Headless Commerce", "AI Agents"],
@@ -160,31 +159,21 @@ skills = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash-k7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-k7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=6366f1&fire=a855f7&currStreakLabel=a855f7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-k7&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=6366f1&fire=a855f7&currStreakLabel=a855f7" />
 </div>
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Shopify Project](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_SHOPIFY_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1)](https://github.com/YOUR_USERNAME/YOUR_SHOPIFY_REPO)
-[![AI Agent Project](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_AI_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1)](https://github.com/YOUR_USERNAME/YOUR_AI_REPO)
-
-</div>
-
----
 
 ## 🌊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6366f1&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-k7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6366f1&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -197,9 +186,9 @@ skills = {
 
 **Open to freelance projects, collaborations & AI + e-commerce consulting.**
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwithakash77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-kollamchery/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916282322434)
 
 </div>
 
