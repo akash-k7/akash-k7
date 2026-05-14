@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Shopify%20•%20WordPress%20•%20Headless%20•%20AI%20Agent%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=200&section=header&text=Hey,%20I'm%20[Akash K]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Shopify%20•%20WordPress%20•%20Headless%20•%20AI%20Agent%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -24,11 +24,11 @@
 ```typescript
 const developer = {
   name: "Akash",
-  location: "Kerala, India 🌴",
+  location: "Kerala, India ",
   education: "B.Tech in Computer Science & Engineering",
   currentFocus: ["Shopify Apps", "Headless Commerce", "AI Agents"],
   workingOn: "Merging e-commerce with intelligent automation",
-  funFact: "I debug with chai ☕ and ship with conviction 🚀",
+  funFact: "I debug with coffee ☕ and ship with conviction ",
 };
 ```
 
@@ -152,19 +152,6 @@ skills = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash-k7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-k7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-k7&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=6366f1&fire=a855f7&currStreakLabel=a855f7" />
 </div>
 
 ---
